@@ -1,6 +1,11 @@
 
-== What you'll build
+== Author
+Julian Mateo Guzman Diaz
 
-You will store `Customer` link:/understanding/POJO[POJOs] in a MongoDB database using Spring Data MongoDB.
+== Heroku link
+https://arswlab07.herokuapp.com/[Heroku App]
+
+==What you will build
+a MongoDB database using Spring Data MongoDB.
 
 
