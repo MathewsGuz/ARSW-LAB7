@@ -5,7 +5,7 @@ Julian Mateo Guzman Diaz
 == Heroku link
 https://arswlab07.herokuapp.com/[Heroku App]
 
-==What you will build
+== What you will build
 a MongoDB database using Spring Data MongoDB.
 
 
